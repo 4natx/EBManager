@@ -1,5 +1,5 @@
 
-<h1 align="center">EB Manager (Discord.js)</h1>
+<h1 align="center">EB Manager</h1>
 
 <div align="center">
 
