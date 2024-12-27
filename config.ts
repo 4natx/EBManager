@@ -15,13 +15,13 @@ const config: BotConfig = {
     ROBLOX_COOKIE: process.env.ROBLOX_COOKIE,
     ROBLOX_API_KEY: process.env.ROBLOX_API_KEY,
     VERIFICATION_PROVIDER_API_KEY: process.env.VERIFICATION_PROVIDER_API_KEY,
-    groupIds: [15859709],
+    groupIds: [],
     permissions: {
-        all: ["1130137372907032647"],
+        all: [""],
         group: {
             shout: [""],
-            ranking: ["1044173223073427466"],
-            joinrequests: ["1044173223073427466"],
+            ranking: [""],
+            joinrequests: [""],
             user: [""],
             xp: [""],
             wall: [""]
@@ -66,23 +66,23 @@ const config: BotConfig = {
     logging: {
         audit: {
             enabled: true,
-            loggingChannel: "1269836984671539241"
+            loggingChannel: ""
         },
         shout: {
             enabled: true,
-            loggingChannel: "1269836984671539241"
+            loggingChannel: ""
         },
         command: {
             enabled: true,
-            loggingChannel: "1269836984671539241"
+            loggingChannel: ""
         },
         antiAbuse: {
             enabled: true,
-            loggingChannel: "1269836984671539241"
+            loggingChannel: ""
         },
         sales: {
             enabled: false,
-            loggingChannel: "1269836984671539241"
+            loggingChannel: ""
         },
         xp: {
             enabled: false,
@@ -97,7 +97,7 @@ const config: BotConfig = {
     ban: {
         banDiscordAccounts: true,
         useSamePrivateReasonForDisplay: false,
-        displayReason: "You've been banned from this game",
+        displayReason: "Você foi banido do jogo.",
         excludeAlts: false,
     },
     defaultCooldown: 5000,

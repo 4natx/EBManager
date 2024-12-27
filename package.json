@@ -1,6 +1,6 @@
 {
-  "name": "roblox-manager",
-  "version": "4.0.0",
+  "name": "eb-manager",
+  "version": "1.0.0",
   "description": "A Discord bot that allows you to manage your Roblox group and game",
   "main": "index.ts",
   "scripts": {
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sv-du/rbx-manager.git"
+    "url": "git+https://github.com/4natx/EBManager.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sv-du/rbx-manager/issues"
+    "url": "https://github.com/4natx/EBManager/issues"
   },
-  "homepage": "https://github.com/sv-du/rbx-manager#readme",
+  "homepage": "https://github.com/4natx/EBManager#readme",
   "dependencies": {
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5",
