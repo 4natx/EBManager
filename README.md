@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/4natx/EBManager.svg)](https://github.com/4natx/EBManager/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/4natx/EBManager.svg)](https://github.com/4natx/EBManager/pulls)
-[![License](https://img.shields.io/badge/license-ISC-blue.svg)](/LICENCE)
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](/LICENSE)
 
 </div>
 
