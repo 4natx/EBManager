@@ -32,7 +32,7 @@ Sim, **EB Manager** é um projeto que eu venho trabalhando há alguns meses inic
 
 O bot tem vários comandos, contendo comandos de moderação do grupo, moderação in-game, xp e outros.
 
-*O bot escrito nas linguagens JavaScript e TypeScript.*
+*O bot foi escrito nas linguagens JavaScript e TypeScript.*
 
 ## 🎈 Como usar <a name = "usage"></a>
 
